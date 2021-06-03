@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi people 👋, I'm Ainy</h1>
 <h2 align="center">A girl trying to figure out stuffs !! </h2>
-<img align="right" src="https://media.giphy.com/media/pLgom5kv8PLnG/giphy.gif" alt="tenor GIF" width="300" height="240">
+<img align="right" src="https://media.giphy.com/media/pLgom5kv8PLnG/giphy.gif" alt="tenor GIF" width="260" height="220">
 
 - 🔭 I’m currently working on computer vision and NLP.
 - 🌱 I’m currently learning Backend Web Development and Machine Learning.
