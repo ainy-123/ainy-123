@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**ainy-123/ainy-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi people 👋, I'm Ainy</h1>
+<h2 align="center">A girl trying to figure out stuffs !! </h2>
+<img align="right" src="https://media.giphy.com/media/pLgom5kv8PLnG/giphy.gif" alt="tenor GIF" width="250" height="200">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on computer vision and NLP.
+- 🌱 I’m currently learning Backend Web Development and Machine Learning.
+- 👯 I’m looking to collaborate on Machine learning or Web Development Projects.
+- 🎓 Languages: C, C++, Python, HTML, CSS, Javascript.
+- 😄 Open source contributions: GSSoC'21.
+- 🎉 Organizations: Microsoft Codess'20(Mars Colonization program)
+- 😍 Hobbies: sketching , drawing , listening music.
+- ⚡ Fun fact: I have done PhD in sleeping😛.
+- 📫 How to reach me: 
+[![Linkedin Badge](https://img.shields.io/badge/-Ainy-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ainy-123/)](https://www.linkedin.com/in/ainy-123/)
+[![Facebook Badge](https://img.shields.io/badge/-Ainy-blue?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/ainy.kumari.1)](https://www.facebook.com/ainy.kumari.1) 
+
+<h2>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ainy-123&show_icons=true&locale=en" alt="ainy-123" /></h2>
