@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi people 👋, I'm Ainy</h1>
 <h2 align="center">A girl trying to figure out stuffs !! </h2>
-<img align="right" src="https://media.giphy.com/media/pLgom5kv8PLnG/giphy.gif" alt="tenor GIF" width="250" height="200">
+<img align="right" src="https://media.giphy.com/media/pLgom5kv8PLnG/giphy.gif" alt="tenor GIF" width="300" height="240">
 
 - 🔭 I’m currently working on computer vision and NLP.
 - 🌱 I’m currently learning Backend Web Development and Machine Learning.
@@ -16,4 +16,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Ainy-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ainy-123/)](https://www.linkedin.com/in/ainy-123/)
 [![Facebook Badge](https://img.shields.io/badge/-Ainy-blue?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/ainy.kumari.1)](https://www.facebook.com/ainy.kumari.1) 
 
-<h2>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ainy-123&show_icons=true&locale=en" alt="ainy-123" /></h2>
+![Ainy's github stats](https://github-readme-stats.vercel.app/api?username=ainy-123&show_icons=true&theme=radical)
