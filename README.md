@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi people 👋, I'm Ainy</h1>
+<h1 align="center">Hey👋, I'm Ainy</h1>
 <h2 align="center">A girl trying to figure out stuffs !! </h2>
 <img align="right" src="https://media.giphy.com/media/pLgom5kv8PLnG/giphy.gif" alt="tenor GIF" width="260" height="220">
 
