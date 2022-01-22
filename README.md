@@ -8,10 +8,9 @@
 - 🌱 I’m currently learning Backend Web Development and Machine Learning.
 - 👯 I’m looking to collaborate on Machine learning or Web Development Projects.
 - 🎓 Languages: C, C++, Python, HTML, CSS, Javascript.
-- 😄 Open source contributions: GSSoC'21.
+- 😄 Open source contributions: GSSoC'21, Hacktoberfest 2021.
 - 🎉 Organizations: Microsoft Codess'20(Mars Colonization program)
 - 😍 Hobbies: sketching , drawing , listening music.
-- ⚡ Fun fact: I have done PhD in sleeping😛.
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Ainy-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ainy-123/)](https://www.linkedin.com/in/ainy-123/)
 [![Facebook Badge](https://img.shields.io/badge/-Ainy-blue?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/ainy.kumari.1)](https://www.facebook.com/ainy.kumari.1) 
