@@ -4,9 +4,9 @@
 <h2 align="center">A girl trying to figure out stuffs !! </h2>
 <img align="right" src="https://media.giphy.com/media/pLgom5kv8PLnG/giphy.gif" alt="tenor GIF" width="260" height="220">
 
-- 🔭 I’m currently working on computer vision and NLP.
+- 🔭 I’m currently working on full stack development.
 - 🌱 I’m currently learning Backend Web Development and Machine Learning.
-- 👯 I’m looking to collaborate on Machine learning or Web Development Projects.
+- 👯 I’m looking to collaborate on Web Development and machine learning Projects.
 - 🎓 Languages: C, C++, Python, HTML, CSS, Javascript.
 - 😄 Open source contributions: GSSoC'21, Hacktoberfest 2021.
 - 🎉 Organizations: Microsoft Codess'20(Mars Colonization program)
